@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 957aa59879cc2df4eb256fcc2a7dcf39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tulip_purple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1921
+        width: 63
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d308723dc9721d947bb0598982aad38e
+      internalID: -1285186602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tulip_blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ab94f61e497344b6de542d08d2d29
+      internalID: -666499363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tulip_green
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fb1ce6defc41c4aad4b8ff1de7ac16
+      internalID: -6539021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tulip_yellow
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1922
+        width: 64
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b185c96da1d7d9748bf74cd1eb3d8f7d
+      internalID: 1134608859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tulip_orange
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1921
+        width: 63
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5f36c2353bd3418208eb48a7264ad
+      internalID: 662406105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tulip_red
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1921
+        width: 64
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758fcbcc6d51de49b77d818adb34e1b
+      internalID: 1837974450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1921
+        width: 121
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc505bac6e7b94ab24b538f9f99a8f
+      internalID: -12413588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1946
+        width: 161
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0f4e6f65dacb419280887529b54b0
+      internalID: -207222136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1810
+        width: 23
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a6e4d5130aca468041154869f1a28
+      internalID: -1849366978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_9
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1951
+        width: 161
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b257074e7f3a4196a259893d38fd3
+      internalID: -1754827249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1815
+        width: 24
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d5b98036d062c45a44a89554c6cb03
+      internalID: -274153531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1946
+        width: 161
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc93e75cca55343ac1f551019cae45
+      internalID: -869805968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_12
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1810
+        width: 24
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cff207c273a54bb36a02311d5ddad
+      internalID: 1688865951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1856
+        width: 63
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a197575353c04c9dd34fdee8f8cb6
+      internalID: -971445399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1825
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f61cfb2fbd05c40a74f08c6a38a422
+      internalID: 549088779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_15
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1826
+        width: 68
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2c5f65ad9e2340ac198e7fef625c1
+      internalID: -1119523665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1860
+        width: 68
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e419729db9cf554a8303c6b3d0956db
+      internalID: 1628570365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_19
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1830
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89638b86e1e4ca446ab7a86917d1d2ad
+      internalID: 500517977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1830
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7d6405d28fc3f4cb88a84112650f3c
+      internalID: -62443914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_21
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1864
+        width: 68
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a8b40bcba71e4cbe48e17be53d69c
+      internalID: 829738356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1825
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0a914369ba5947bcdb96c9b656166
+      internalID: 194821191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1825
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7c58c895fea84b8c1eee735672e17
+      internalID: 693145328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1859
+        width: 68
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a073c1733da2b141ac317165ce57c95
+      internalID: -1833269946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1858
+        width: 61
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13573af41b2d6db44b273ff828b5d45f
+      internalID: 1781472714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1857
+        width: 40
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a102e937ac002045b21f11b07e277ee
+      internalID: -1767821151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_34
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1811
+        width: 71
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7869267845b7ba044ac427b822ccd837
+      internalID: -1313563367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1816
+        width: 69
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35b3a4724af1ca48aeda190c93094d7
+      internalID: -95049638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_36
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1811
+        width: 71
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a143f36086574b92ef54055bf73e8
+      internalID: 793184669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_bush_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1542
+        width: 224
+        height: 308
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65abb436572ceb48aa451952f4ee138
+      internalID: 1752566000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_38
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1711
+        width: 161
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaabf4fdf276a44d84089098561560b
+      internalID: 1959994600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_39
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1575
+        width: 24
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c2fa5abaa9c84d9cee83c2bb5d31c
+      internalID: -327686583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1709
+        width: 161
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9377a9f6dd7b24748955da1c31582d8d
+      internalID: -817018669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_41
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1573
+        width: 24
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0c2632667be04a9306bb86da70023
+      internalID: -1714212486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1699
+        width: 161
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2823d95f542d13c4983006f6bf7c04ac
+      internalID: -665261207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_43
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1563
+        width: 23
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595c28987b056dd47bd9c9e1203e19f9
+      internalID: -787863673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1590
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47731e21d2700f458087c4a2b1b9da6
+      internalID: 1832165585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_45
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1590
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1997c0fe7f4a3e49a857a91ec948bb6
+      internalID: 1806706170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_46
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1624
+        width: 68
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ae8444783a414a8fd74a301a3cd17
+      internalID: -2024274483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_49
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1588
+        width: 68
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b374b426079b44990613b1f1d38337
+      internalID: -92375639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_50
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1588
+        width: 67
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0d596706a6e6b47ac89b7064dc05c0
+      internalID: 844492883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_51
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1626
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3413cbd6dc27c64cb4ae0590fb2f6d8
+      internalID: 1352535619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_54
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1578
+        width: 67
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace77f6c7c9c17d45bdcf93b07d71f79
+      internalID: -855369196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1578
+        width: 68
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fba95b7803b354594d563aa4fa66dd
+      internalID: 1257616933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_56
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1612
+        width: 68
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7ef9403a20af2478be42061457f420
+      internalID: 1002938989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1576
+        width: 69
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370943544a6a034bab032b9f8532794
+      internalID: -1666199221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_63
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1574
+        width: 71
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255a3f7356c5784f924c40e20dd1499
+      internalID: -1695610428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_64
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1565
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bcf1545d1de834aa196bbc9608301f
+      internalID: -775214265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_bush_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1228
+        width: 370
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9946d029d8a5ff34d9c0ea8cce0956a5
+      internalID: -1669034659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_brown
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1398
+        width: 228
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c82c8491ef1d6844ba1316b385c6a7c
+      internalID: 402161131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_orange
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1403
+        width: 228
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884d0771f0457994e8e8f4c7984772a1
+      internalID: -1444349384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_pruple
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1404
+        width: 228
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a52f85f93721459aa6800ad726525
+      internalID: -1691311548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_bush_
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 903
+        width: 349
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659a99fd3eb93d4591e3d39aa2b7a29
+      internalID: 2006613907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_brown
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1186
+        width: 404
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0ce6e825de1943a69494dc89c87bf
+      internalID: 1364234807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_orange
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1190
+        width: 406
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e1f0d33848114cb4ddd4da749c497
+      internalID: 1069762257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_purple
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1192
+        width: 406
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0656e557f8c1428a55d36d21a9709
+      internalID: -1141050119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_brown
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 991
+        width: 356
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c424036ca6e374898583d000fd405a
+      internalID: 1376406920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_orange
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 997
+        width: 357
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55f1ed573cb8cb4a98e406ef1162d62
+      internalID: -152636828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_purple
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 997
+        width: 357
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d4e9a04e4c024ba2aadee4ed7d04a
+      internalID: -1076172917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_76
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 783
+        width: 97
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28767fb94298b4449006ae53ca9c163
+      internalID: -269580062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 641
+        width: 126
+        height: 245
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98934e390420cc94fa9f855e829355c2
+      internalID: -1617181650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_brown
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 796
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611af15f95f2634289acf5e824d060d
+      internalID: 1021999006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_79
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 797
+        width: 211
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af869b0653e079b4abc15a5bdb0b1043
+      internalID: -1502289328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_orange
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 801
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447a3ff91bb1bc46a4845a8ceb8537f
+      internalID: 314755336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 802
+        width: 189
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3f66cae2f8d94c8292dbe90666f0f
+      internalID: -1261699203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_purple
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 802
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf2e579ede1904db7dc5fc948c0793
+      internalID: 428001974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_83
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 802
+        width: 189
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14371fc5556e6af43bbdb67bbe7b7664
+      internalID: -2093796380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 658
+        width: 41
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729fe3b8bd9d8fd4a90de5524cf2c0fa
+      internalID: -361001034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_green
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 622
+        width: 228
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa8f8f8dcd094c41acb57efd05ee649
+      internalID: -545546817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_blue
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 620
+        width: 228
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86faa05276f1ef42a39c2f9381cb0d8
+      internalID: -1256946393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_front_red
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 616
+        width: 228
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1fe83590bac341ad18cbe24471702
+      internalID: 1932627845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 510
+        width: 137
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93608c334f77eb74ba72928adf3e20e1
+      internalID: -475387133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 516
+        width: 129
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7ec10bbfa7904db0355f4f506dd79
+      internalID: 1253762558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 517
+        width: 155
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4abff8df6eaf4eb22614f781b776e
+      internalID: -1904938268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_green
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 409
+        width: 405
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c16a32e188c6418664978c39a4c28
+      internalID: -383333426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_blue
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 408
+        width: 404
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65eb587cf02b83439e95c1927438cbe
+      internalID: 1311284018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_Roof_side_red
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 404
+        width: 406
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fac338a46e41747b63ae23ef372fef
+      internalID: 1125113290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_1F
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 400
+        width: 137
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3c2d5ad7155941a8ba67ddef73aff
+      internalID: -1255253387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_2F
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 400
+        width: 130
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdfcfb821bee14b8ad3fdbf52d3109
+      internalID: 1878565016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_3F
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 409
+        width: 156
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba39af6425a7541be817c8443ef9f8
+      internalID: 416819372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 246
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27071e8382239a24190907749d1120f1
+      internalID: -598035018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3
+        width: 234
+        height: 378
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6476a1bea849324c9aa6ccd6cb7cf7a
+      internalID: -909256072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3
+        width: 189
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262a1fe897aac84fa9967b0f30e3c8f
+      internalID: 304328808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_green
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 215
+        width: 356
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff4ec42124cb1428026e92acfbcba3
+      internalID: 964440915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_blue
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 214
+        width: 356
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac95585eab4ca6d46b115ce154bef721
+      internalID: 529229075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-3_red
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 207
+        width: 357
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b2fedd1b85e74db364fb77acd8bdd
+      internalID: 1262228891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_green
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 20
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f385e6f0515604ba2aee9101de0eca
+      internalID: 1970543812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_104
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 21
+        width: 188
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25a064611025b4c9a5497bfbcf55b9
+      internalID: -16488949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_blue
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 18
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2111e09378d3ba40b39a4cce3d22bf6
+      internalID: 2125604702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_106
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 18
+        width: 188
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c795c3ce7dc2c40a125c1728d9cf35
+      internalID: -13613504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: House_wall_Side-X_red
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 14
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cad8b79ed103469894c85ccf957de
+      internalID: -798296021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite atlas_108
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 15
+        width: 189
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19699d8f7757f8846b804600eab92d20
+      internalID: -413188438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f82c253b663a814e8d93fe9066190dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bush_1: -475387133
+      Bush_1F: -1255253387
+      Bush_2: 1253762558
+      Bush_2F: 1878565016
+      Bush_3: -1904938268
+      Bush_3F: 416819372
+      House_Roof_front_blue: -1256946393
+      House_Roof_front_brown: 402161131
+      House_Roof_front_green: -545546817
+      House_Roof_front_orange: -1444349384
+      House_Roof_front_pruple: -1691311548
+      House_Roof_front_red: 1932627845
+      House_Roof_side_blue: 1311284018
+      House_Roof_side_brown: 1364234807
+      House_Roof_side_green: -383333426
+      House_Roof_side_orange: 1069762257
+      House_Roof_side_purple: -1141050119
+      House_Roof_side_red: 1125113290
+      House_wall_Side-3_blue: 529229075
+      House_wall_Side-3_brown: 1376406920
+      House_wall_Side-3_green: 964440915
+      House_wall_Side-3_orange: -152636828
+      House_wall_Side-3_purple: -1076172917
+      House_wall_Side-3_red: 1262228891
+      House_wall_Side-X_blue: 2125604702
+      House_wall_Side-X_brown: 1021999006
+      House_wall_Side-X_green: 1970543812
+      House_wall_Side-X_orange: 314755336
+      House_wall_Side-X_purple: 428001974
+      House_wall_Side-X_red: -798296021
+      Sprite atlas_10: -274153531
+      Sprite atlas_104: -16488949
+      Sprite atlas_106: -13613504
+      Sprite atlas_108: -413188438
+      Sprite atlas_11: -869805968
+      Sprite atlas_12: 1688865951
+      Sprite atlas_13: -971445399
+      Sprite atlas_14: 549088779
+      Sprite atlas_15: -1119523665
+      Sprite atlas_16: 1628570365
+      Sprite atlas_17: -1173346048
+      Sprite atlas_18: 1634489376
+      Sprite atlas_19: 500517977
+      Sprite atlas_20: -62443914
+      Sprite atlas_21: 829738356
+      Sprite atlas_22: 1617034447
+      Sprite atlas_23: -1984632403
+      Sprite atlas_24: 194821191
+      Sprite atlas_25: 693145328
+      Sprite atlas_26: -1833269946
+      Sprite atlas_27: -1866889231
+      Sprite atlas_28: -1214516314
+      Sprite atlas_29: 1781472714
+      Sprite atlas_30: 467727300
+      Sprite atlas_31: 45973908
+      Sprite atlas_32: -1502604729
+      Sprite atlas_33: -1767821151
+      Sprite atlas_34: -1313563367
+      Sprite atlas_35: -95049638
+      Sprite atlas_36: 793184669
+      Sprite atlas_38: 1959994600
+      Sprite atlas_39: -327686583
+      Sprite atlas_40: -817018669
+      Sprite atlas_41: -1714212486
+      Sprite atlas_42: -665261207
+      Sprite atlas_43: -787863673
+      Sprite atlas_44: 1832165585
+      Sprite atlas_45: 1806706170
+      Sprite atlas_46: -2024274483
+      Sprite atlas_47: -828352260
+      Sprite atlas_48: -440203321
+      Sprite atlas_49: -92375639
+      Sprite atlas_50: 844492883
+      Sprite atlas_51: 1352535619
+      Sprite atlas_52: 1772994119
+      Sprite atlas_53: 734665413
+      Sprite atlas_54: -855369196
+      Sprite atlas_55: 1257616933
+      Sprite atlas_56: 1002938989
+      Sprite atlas_57: -775818589
+      Sprite atlas_58: 870840643
+      Sprite atlas_59: 1045852889
+      Sprite atlas_6: -12413588
+      Sprite atlas_60: -2052702311
+      Sprite atlas_61: 1063070803
+      Sprite atlas_62: -1666199221
+      Sprite atlas_63: -1695610428
+      Sprite atlas_64: -775214265
+      Sprite atlas_7: -207222136
+      Sprite atlas_76: -269580062
+      Sprite atlas_77: -1617181650
+      Sprite atlas_79: -1502289328
+      Sprite atlas_8: -1849366978
+      Sprite atlas_81: -1261699203
+      Sprite atlas_83: -2093796380
+      Sprite atlas_84: -361001034
+      Sprite atlas_9: -1754827249
+      Tree_1: 304328808
+      Tree_2: -909256072
+      Tree_3: -598035018
+      Tree_bush_: 2006613907
+      Tree_bush_1: 1752566000
+      Tree_bush_2: -1669034659
+      Tulip_blue: -666499363
+      Tulip_green: -6539021
+      Tulip_orange: 662406105
+      Tulip_purple: -1285186602
+      Tulip_red: 1837974450
+      Tulip_yellow: 1134608859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
