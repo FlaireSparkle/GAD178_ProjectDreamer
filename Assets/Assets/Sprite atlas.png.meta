@@ -456,15 +456,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_14
+      name: Door_full_brown
       rect:
         serializedVersion: 2
         x: 1130
         y: 1825
         width: 67
         height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -519,15 +519,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_19
+      name: Door_full_orange
       rect:
         serializedVersion: 2
         x: 1447
         y: 1830
         width: 67
         height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -568,8 +568,8 @@ TextureImporter:
         y: 1864
         width: 68
         height: 58
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -582,15 +582,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_24
+      name: Door_full_purple
       rect:
         serializedVersion: 2
         x: 1738
-        y: 1825
+        y: 1826
         width: 67
         height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -631,8 +631,8 @@ TextureImporter:
         y: 1859
         width: 68
         height: 58
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -715,8 +715,8 @@ TextureImporter:
         y: 1816
         width: 69
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -736,8 +736,8 @@ TextureImporter:
         y: 1811
         width: 71
         height: 48
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -897,15 +897,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_44
+      name: Door_full_green
       rect:
         serializedVersion: 2
         x: 1127
-        y: 1590
+        y: 1591
         width: 67
         height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 1
+      pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -960,7 +960,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_49
+      name: Door_full_blue
       rect:
         serializedVersion: 2
         x: 1443
@@ -1023,15 +1023,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_54
+      name: Door_full_red
       rect:
         serializedVersion: 2
         x: 1730
         y: 1578
         width: 67
         height: 92
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1065,15 +1065,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_56
+      name: Door_half_top_red
       rect:
         serializedVersion: 2
         x: 1881
         y: 1612
         width: 68
         height: 58
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1135,8 +1135,8 @@ TextureImporter:
         y: 1565
         width: 71
         height: 49
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1317,7 +1317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: House_wall_Side-3_brown
+      name: House_wall_Side-I_brown
       rect:
         serializedVersion: 2
         x: 809
@@ -1338,7 +1338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: House_wall_Side-3_orange
+      name: House_wall_Side-I_orange
       rect:
         serializedVersion: 2
         x: 1235
@@ -1359,11 +1359,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: House_wall_Side-3_purple
+      name: House_wall_Side-I_purple
       rect:
         serializedVersion: 2
         x: 1654
-        y: 997
+        y: 996
         width: 357
         height: 190
       alignment: 7
@@ -1443,16 +1443,16 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_79
+      name: House_wall_Side_brown
       rect:
         serializedVersion: 2
         x: 989
         y: 797
-        width: 211
-        height: 189
+        width: 188
+        height: 188
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1699,7 +1699,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 781
-        y: 409
+        y: 407
         width: 405
         height: 210
       alignment: 7
@@ -1720,7 +1720,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1210
-        y: 408
+        y: 410
         width: 404
         height: 210
       alignment: 7
@@ -1783,7 +1783,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 214
-        y: 400
+        y: 402
         width: 130
         height: 106
       alignment: 7
@@ -1884,7 +1884,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: House_wall_Side-3_green
+      name: House_wall_Side-I_green
       rect:
         serializedVersion: 2
         x: 806
@@ -1926,7 +1926,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: House_wall_Side-3_red
+      name: House_wall_Side-I_red
       rect:
         serializedVersion: 2
         x: 1649
@@ -1950,8 +1950,8 @@ TextureImporter:
       name: House_wall_Side-X_green
       rect:
         serializedVersion: 2
-        x: 794
-        y: 20
+        x: 798
+        y: 22
         width: 189
         height: 189
       alignment: 7
@@ -1968,7 +1968,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_104
+      name: House_wall_Side_
       rect:
         serializedVersion: 2
         x: 986
@@ -2089,6 +2089,13 @@ TextureImporter:
       Bush_2F: 1878565016
       Bush_3: -1904938268
       Bush_3F: 416819372
+      Door_full_blue: -92375639
+      Door_full_brown: 549088779
+      Door_full_green: 1832165585
+      Door_full_orange: 500517977
+      Door_full_purple: 194821191
+      Door_full_red: -855369196
+      Door_half_top_red: 1002938989
       House_Roof_front_blue: -1256946393
       House_Roof_front_brown: 402161131
       House_Roof_front_green: -545546817
@@ -2102,35 +2109,33 @@ TextureImporter:
       House_Roof_side_purple: -1141050119
       House_Roof_side_red: 1125113290
       House_wall_Side-3_blue: 529229075
-      House_wall_Side-3_brown: 1376406920
-      House_wall_Side-3_green: 964440915
-      House_wall_Side-3_orange: -152636828
-      House_wall_Side-3_purple: -1076172917
-      House_wall_Side-3_red: 1262228891
+      House_wall_Side-I_brown: 1376406920
+      House_wall_Side-I_green: 964440915
+      House_wall_Side-I_orange: -152636828
+      House_wall_Side-I_purple: -1076172917
+      House_wall_Side-I_red: 1262228891
       House_wall_Side-X_blue: 2125604702
       House_wall_Side-X_brown: 1021999006
       House_wall_Side-X_green: 1970543812
       House_wall_Side-X_orange: 314755336
       House_wall_Side-X_purple: 428001974
       House_wall_Side-X_red: -798296021
+      House_wall_Side_: -16488949
+      House_wall_Side_brown: -1502289328
       Sprite atlas_10: -274153531
-      Sprite atlas_104: -16488949
       Sprite atlas_106: -13613504
       Sprite atlas_108: -413188438
       Sprite atlas_11: -869805968
       Sprite atlas_12: 1688865951
       Sprite atlas_13: -971445399
-      Sprite atlas_14: 549088779
       Sprite atlas_15: -1119523665
       Sprite atlas_16: 1628570365
       Sprite atlas_17: -1173346048
       Sprite atlas_18: 1634489376
-      Sprite atlas_19: 500517977
       Sprite atlas_20: -62443914
       Sprite atlas_21: 829738356
       Sprite atlas_22: 1617034447
       Sprite atlas_23: -1984632403
-      Sprite atlas_24: 194821191
       Sprite atlas_25: 693145328
       Sprite atlas_26: -1833269946
       Sprite atlas_27: -1866889231
@@ -2149,19 +2154,15 @@ TextureImporter:
       Sprite atlas_41: -1714212486
       Sprite atlas_42: -665261207
       Sprite atlas_43: -787863673
-      Sprite atlas_44: 1832165585
       Sprite atlas_45: 1806706170
       Sprite atlas_46: -2024274483
       Sprite atlas_47: -828352260
       Sprite atlas_48: -440203321
-      Sprite atlas_49: -92375639
       Sprite atlas_50: 844492883
       Sprite atlas_51: 1352535619
       Sprite atlas_52: 1772994119
       Sprite atlas_53: 734665413
-      Sprite atlas_54: -855369196
       Sprite atlas_55: 1257616933
-      Sprite atlas_56: 1002938989
       Sprite atlas_57: -775818589
       Sprite atlas_58: 870840643
       Sprite atlas_59: 1045852889
@@ -2174,7 +2175,6 @@ TextureImporter:
       Sprite atlas_7: -207222136
       Sprite atlas_76: -269580062
       Sprite atlas_77: -1617181650
-      Sprite atlas_79: -1502289328
       Sprite atlas_8: -1849366978
       Sprite atlas_81: -1261699203
       Sprite atlas_83: -2093796380
