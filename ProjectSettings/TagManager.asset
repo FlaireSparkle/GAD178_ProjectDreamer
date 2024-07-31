@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 3231649867
+    locked: 0
+  - name: Midground
+    uniqueID: 3288622629
+    locked: 0
+  - name: BG-2
+    uniqueID: 529468129
+    locked: 0
+  - name: BG-3
+    uniqueID: 1838768669
+    locked: 0
+  - name: FAR bg - sky
+    uniqueID: 3059104431
+    locked: 0
+  - name: Forground
+    uniqueID: 76855037
+    locked: 0
