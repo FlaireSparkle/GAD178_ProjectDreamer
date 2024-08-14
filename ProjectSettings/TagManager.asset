@@ -11,19 +11,19 @@ TagManager:
   - 
   - Water
   - UI
+  - foreground
+  - player
+  - 
+  - 
+  - 
+  - 
+  - midground
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - background
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2347365543
+    locked: 0
+  - name: Background
+    uniqueID: 424612903
+    locked: 0
+  - name: Midground
+    uniqueID: 1444078103
+    locked: 0
+  - name: Player
+    uniqueID: 3512081235
+    locked: 0
+  - name: Foreground
+    uniqueID: 1626808665
     locked: 0

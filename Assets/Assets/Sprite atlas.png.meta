@@ -165,8 +165,8 @@ TextureImporter:
       name: Tulip_purple
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1921
+        x: 0
+        y: 1919
         width: 63
         height: 110
       alignment: 7
@@ -435,7 +435,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_13
+      name: Grass_3
       rect:
         serializedVersion: 2
         x: 65
@@ -645,7 +645,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_29
+      name: Grass_2
       rect:
         serializedVersion: 2
         x: 193
@@ -666,7 +666,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_33
+      name: Grass_1
       rect:
         serializedVersion: 2
         x: 140
@@ -1233,7 +1233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tree_bush_
+      name: Tree_bush_3
       rect:
         serializedVersion: 2
         x: 21
@@ -1263,7 +1263,7 @@ TextureImporter:
         height: 210
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 32, y: 0, z: 31, w: 36}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1326,7 +1326,7 @@ TextureImporter:
         height: 190
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1347,7 +1347,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1368,7 +1368,7 @@ TextureImporter:
         height: 190
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1380,7 +1380,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_76
+      name: Light Orb
       rect:
         serializedVersion: 2
         x: 274
@@ -1401,7 +1401,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_77
+      name: Light Pole
       rect:
         serializedVersion: 2
         x: 386
@@ -1431,7 +1431,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1473,7 +1473,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1494,7 +1494,7 @@ TextureImporter:
         height: 188
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1510,12 +1510,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1643
-        y: 802
+        y: 797
         width: 189
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1536,7 +1536,7 @@ TextureImporter:
         height: 190
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1548,7 +1548,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite atlas_84
+      name: Light Crystal
       rect:
         serializedVersion: 2
         x: 267
@@ -1893,7 +1893,7 @@ TextureImporter:
         height: 190
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1914,7 +1914,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1935,7 +1935,7 @@ TextureImporter:
         height: 190
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1956,7 +1956,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1977,7 +1977,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1998,7 +1998,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2019,7 +2019,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2040,7 +2040,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2061,7 +2061,7 @@ TextureImporter:
         height: 189
       alignment: 7
       pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 18, y: 18, z: 18, w: 18}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -2096,6 +2096,9 @@ TextureImporter:
       Door_full_purple: 194821191
       Door_full_red: -855369196
       Door_half_top_red: 1002938989
+      Grass_1: -1767821151
+      Grass_2: 1781472714
+      Grass_3: -971445399
       House_Roof_front_blue: -1256946393
       House_Roof_front_brown: 402161131
       House_Roof_front_green: -545546817
@@ -2122,12 +2125,14 @@ TextureImporter:
       House_wall_Side-X_red: -798296021
       House_wall_Side_: -16488949
       House_wall_Side_brown: -1502289328
+      Light Crystal: -361001034
+      Light Orb: -269580062
+      Light Pole: -1617181650
       Sprite atlas_10: -274153531
       Sprite atlas_106: -13613504
       Sprite atlas_108: -413188438
       Sprite atlas_11: -869805968
       Sprite atlas_12: 1688865951
-      Sprite atlas_13: -971445399
       Sprite atlas_15: -1119523665
       Sprite atlas_16: 1628570365
       Sprite atlas_17: -1173346048
@@ -2140,11 +2145,9 @@ TextureImporter:
       Sprite atlas_26: -1833269946
       Sprite atlas_27: -1866889231
       Sprite atlas_28: -1214516314
-      Sprite atlas_29: 1781472714
       Sprite atlas_30: 467727300
       Sprite atlas_31: 45973908
       Sprite atlas_32: -1502604729
-      Sprite atlas_33: -1767821151
       Sprite atlas_34: -1313563367
       Sprite atlas_35: -95049638
       Sprite atlas_36: 793184669
@@ -2173,19 +2176,16 @@ TextureImporter:
       Sprite atlas_63: -1695610428
       Sprite atlas_64: -775214265
       Sprite atlas_7: -207222136
-      Sprite atlas_76: -269580062
-      Sprite atlas_77: -1617181650
       Sprite atlas_8: -1849366978
       Sprite atlas_81: -1261699203
       Sprite atlas_83: -2093796380
-      Sprite atlas_84: -361001034
       Sprite atlas_9: -1754827249
       Tree_1: 304328808
       Tree_2: -909256072
       Tree_3: -598035018
-      Tree_bush_: 2006613907
       Tree_bush_1: 1752566000
       Tree_bush_2: -1669034659
+      Tree_bush_3: 2006613907
       Tulip_blue: -666499363
       Tulip_green: -6539021
       Tulip_orange: 662406105
